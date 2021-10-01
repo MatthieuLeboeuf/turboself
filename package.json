@@ -1,0 +1,17 @@
+{
+  "name": "turboself",
+  "version": "1.0.0",
+  "description": "M'avertir en cas d'oubli de réservation du self",
+  "main": "index.js",
+  "repository": "git@github.com:MatthieuLeboeuf/turboself.git",
+  "author": "MatthieuLeboeuf <contact@matthieul.dev>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.22.0",
+    "dotenv-flow": "^3.2.0",
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.8.1"
+  }
+}
